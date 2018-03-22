@@ -1,0 +1,53 @@
+{
+  "_from": "perfschool",
+  "_id": "perfschool@1.0.3",
+  "_inBundle": false,
+  "_integrity": "sha1-CqiJXb4xDfPBFIFey/MIS8Nf4wU=",
+  "_location": "/perfschool",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "perfschool",
+    "name": "perfschool",
+    "escapedName": "perfschool",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/perfschool/-/perfschool-1.0.3.tgz",
+  "_shasum": "0aa8895dbe310df3c114815ecbf3084bc35fe305",
+  "_spec": "perfschool",
+  "_where": "/Volumes/tako2royal/_CODE_19mar18/__code-docs19mar18/___git--17mar18/___gitREPOS-17mar18/_nodeschool/_perfschool",
+  "author": {
+    "name": "Nicolas Bevacqua",
+    "email": "nicolasbevacqua@gmail.com",
+    "url": "http://bevacqua.io/"
+  },
+  "bin": {
+    "perfschool": "./perfschool.js"
+  },
+  "bugs": {
+    "url": "https://github.com/bevacqua/perfschool/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "express": "4.12.3",
+    "serve-static": "1.9.2"
+  },
+  "deprecated": false,
+  "description": "Find your way through the performance optimization maze in this NodeSchool workshopper",
+  "homepage": "https://github.com/bevacqua/perfschool",
+  "license": "MIT",
+  "main": "perfschool.js",
+  "name": "perfschool",
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bevacqua/perfschool.git"
+  },
+  "version": "1.0.3"
+}
